@@ -11,7 +11,7 @@
 :information_source: <i>Códigos desenvolvidos durante o desafio Fundamentos ReactJS, na terceira semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
-Esse desafio tem como objetivo fixar os conhecimentos aprendidos até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário. Essa será uma aplicação que irá se conectar ao seu backend do [desafio anterior](https://github.com/ChristopherHauschild/desafio-backend-semana02-gostack), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
+Esse desafio tem como objetivo fixar os conhecimentos aprendidos até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário. Essa será uma aplicação que irá se conectar ao seu backend do <a href="https://github.com/ChristopherHauschild/desafio-backend-semana02-gostack" target="_blank">desafio anterior</a>, e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 </p>
 
 ## :twisted_rightwards_arrows: Funcionalidades da aplicação:
