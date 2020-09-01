@@ -3,7 +3,7 @@
 </div> <br />
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=backend&color=informational&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=react&message=web&color=informational&style=for-the-badge&logo=REACT"/>
 </div>
 
 # <p align="center">Desafio - Fundamentos ReactJS</p>
