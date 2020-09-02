@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/static/v1?label=react&message=web&color=informational&style=for-the-badge&logo=REACT"/>
 </div>
 
-# <p align="center">Desafio - Fundamentos ReactJS</p>
+# <p align="center">Desafio - GoFinances Web</p>
 
-:information_source: <i>Códigos desenvolvidos durante o desafio Fundamentos ReactJS, na terceira semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
+:information_source: <i>Códigos desenvolvidos durante o desafio GoFinances Web, na terceira semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
 Esse desafio tem como objetivo fixar os conhecimentos aprendidos até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário. Essa será uma aplicação que irá se conectar ao seu backend do <a href="https://github.com/ChristopherHauschild/desafio-backend-semana02-gostack" target="_blank">desafio anterior</a>, e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
